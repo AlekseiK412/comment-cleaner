@@ -1,7 +1,6 @@
 # comment-cleaner README
 
-This is the README for your extension "comment-cleaner". After writing up a brief description, we recommend including the following sections.
-
+Comment cleaner is a VS Code extension designed to help you clean your code by removing all the comments from it with a single command.
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
